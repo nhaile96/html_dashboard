@@ -49,6 +49,10 @@ body{
     width: 100%;
 }
 
+.homebtn{
+    background-color: white;
+    z-index: 2;
+}
 .homebtn a{
     width: 110px;
     background: lightseagreen;
@@ -61,6 +65,14 @@ body{
     padding: 14px;
     margin: 0px 0px 0px 40px;
 }
+
+
+.divbdy{
+    background-color: white;
+    z-index: 1;
+}
+
+
 
 .divtop{
     background-color: white;
