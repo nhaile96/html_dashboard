@@ -1,5 +1,7 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+Website [HERE](https://nhaile96.github.io/web-design-challenge/web_app_hw/landing-page.html)
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
